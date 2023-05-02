@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ActOneeFirebase/static/css/main.7b5f0641.css",
+    "main.js": "/ActOneeFirebase/static/js/main.75e11a74.js",
+    "static/js/787.fd9634aa.chunk.js": "/ActOneeFirebase/static/js/787.fd9634aa.chunk.js",
+    "static/media/03.jpg": "/ActOneeFirebase/static/media/03.a830a8986e686a655978.jpg",
+    "static/media/06.jpg": "/ActOneeFirebase/static/media/06.8f4e58b23e7ea046c87c.jpg",
+    "static/media/02.jpeg": "/ActOneeFirebase/static/media/02.f3a1881afe52c4e63c87.jpeg",
+    "static/media/04.jpg": "/ActOneeFirebase/static/media/04.9e93b6c138194252363a.jpg",
+    "static/media/01.jpg": "/ActOneeFirebase/static/media/01.010fb6e4be1497bbf57f.jpg",
+    "static/media/09.jpg": "/ActOneeFirebase/static/media/09.f1ba16a3dd0c698a2415.jpg",
+    "static/media/08.jpg": "/ActOneeFirebase/static/media/08.748ad232476e3bc9f94a.jpg",
+    "static/media/05.png": "/ActOneeFirebase/static/media/05.a26a4340c16de6917375.png",
+    "index.html": "/ActOneeFirebase/index.html",
+    "main.7b5f0641.css.map": "/ActOneeFirebase/static/css/main.7b5f0641.css.map",
+    "main.75e11a74.js.map": "/ActOneeFirebase/static/js/main.75e11a74.js.map",
+    "787.fd9634aa.chunk.js.map": "/ActOneeFirebase/static/js/787.fd9634aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5f0641.css",
+    "static/js/main.75e11a74.js"
+  ]
+}
